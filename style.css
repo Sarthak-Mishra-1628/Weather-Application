@@ -24,8 +24,6 @@
     background: linear-gradient(135deg, #00fe1a, #5b541a);
     color: #fff;
     padding: 20px;
-    /* width: 70vmin; */
-
     width: 90%;
     max-width: 500px;
 }
@@ -113,8 +111,6 @@ p{
 @media(max-width: 600px){
     .main{
         width: 95vw;
-        /* height: 100vh; */
-
         padding: 10px;
     }
 
@@ -127,11 +123,6 @@ p{
         height: 35px;
     }
 
-    /* button{
-        height: 40px; width: 40px;
-        font-size: 20px;
-    } */
-
     #temp{
         font-size: 36px;
     }
@@ -139,10 +130,6 @@ p{
     #place{
         font-size: 28px;
     }
-
-    /* #humidity, #wind, p{
-        font-size: 30px;
-    } */
 
     .last{
         gap: 30px;
